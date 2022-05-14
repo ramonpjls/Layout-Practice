@@ -11,7 +11,7 @@ I got the desision to use Tailwind because is a preatty straigthforward technolo
 Clone the project
 
 ```bash
-  git clone https://github.com/ramonpjls/Layout-Mctekk
+  git clone https://github.com/ramonpjls/Layout-Mctekk.git
 ```
 
 Go to the project directory
