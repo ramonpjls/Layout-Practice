@@ -1,5 +1,7 @@
 # CSS AND HTML LAYOUT PRACTICE
 
+The example layout is in /src/example.png
+
 I got the desision to use Tailwind because is a preatty straigthforward technology and can be use almost all the js frameworks/libraries
 
 ## Tech Stack
