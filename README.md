@@ -1,4 +1,4 @@
-# CSS AND HTML LAYOUT TEST - MCTEKK
+# CSS AND HTML LAYOUT PRACTICE
 
 I got the desision to use Tailwind because is a preatty straigthforward technology and can be use almost all the js frameworks/libraries
 
@@ -11,7 +11,7 @@ I got the desision to use Tailwind because is a preatty straigthforward technolo
 Clone the project
 
 ```bash
-  git clone https://github.com/ramonpjls/Layout-Mctekk
+  git clone https://github.com/ramonpjls/Layout-Mctekk.git
 ```
 
 Go to the project directory
